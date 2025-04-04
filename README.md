@@ -1,16 +1,27 @@
-## Hi there 👋
+💾 Adriana Rocha
 
-<!--
-**AdryRocha/AdryRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_______________________________________________________________________________________
 
-Here are some ideas to get you started:
+Graduated in Mathematics, with multiple specializations in technology and an MBA. I have experience in teaching, IT, and volunteer work in education. I work collaboratively, combining leadership, creativity, and adaptability to develop innovative solutions. I practice lifelong learning, constantly seeking new knowledge and applying theory to practice to stay up to date and expand my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+________________________________________________________________________________________
+
+Connect with me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianarochacp/)
+
+_________________________________________________________________________________________
+
+GitHub Stats
+
+![AdryRocha GitHub stats](https://github-readme-stats.vercel.app/api?username=AdryRocha&show_icons=true&theme=cobalt)
+
+__________________________________________________________________________________________
+
+
+
+
+
+
+
+
